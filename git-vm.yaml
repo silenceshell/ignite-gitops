@@ -12,7 +12,7 @@ spec:
   kernel:
     cmdLine: console=ttyS0 reboot=k panic=1 pci=off ip=dhcp
     oci: weaveworks/ignite-kernel:4.19.47
-  memory: 1GB
+  memory: 2GB
   network: {}
   ssh: true
   storage: {}
