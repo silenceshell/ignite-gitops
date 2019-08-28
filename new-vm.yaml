@@ -7,7 +7,7 @@ spec:
   image:
     oci: weaveworks/ignite-ubuntu
   cpus: 1
-  diskSize: 3GB
+  diskSize: 4GB
   memory: 800MB
   ssh: true
 status:
