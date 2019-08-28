@@ -6,7 +6,7 @@ metadata:
   uid: 599615df99804ae8
 spec:
   cpus: 1
-  diskSize: 3GB
+  diskSize: 30GB
   image:
     oci: weaveworks/ignite-ubuntu:latest
   kernel:
